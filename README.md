@@ -1,4 +1,4 @@
-# Photoprism Google photos Album
+# Transfer Google photos Album to Photoprism
 Create google photos album in photoprism.
 
 ## Steps:
